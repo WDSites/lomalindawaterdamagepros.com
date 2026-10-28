@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lomalindawaterdamagepros.com/sitemap.xml
